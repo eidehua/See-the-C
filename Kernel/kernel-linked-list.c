@@ -6,6 +6,10 @@ struct my_list{
 	struct my_list *next;
 	struct my_list *prev;
 	};
-	
-	
+//Kernel implementation:
+struct my_cool_list{
+	struct list_head list; /* kernel's list structure */
+	int my_cool_data;
+	void* my_cool_void;
+	};
 //reference: https://isis.poly.edu/kulesh/stuff/src/klist/
