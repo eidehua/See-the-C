@@ -1,0 +1,6 @@
+How to make a makefile
+
+What exactly is a makefile?
+
+Based on 
+https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html
