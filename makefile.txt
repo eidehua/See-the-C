@@ -1,6 +1,10 @@
 How to make a makefile
 
 What exactly is a makefile?
+It is a file containing rules for building executables - rules for "making" the application.
+
+What is GCC?
+GCC stands for GNU C Compiler. Now know as GNU Compiler Collection since it supports compilation for several languages.
 
 Based on 
 https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html
