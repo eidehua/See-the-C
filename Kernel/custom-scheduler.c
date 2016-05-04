@@ -11,3 +11,6 @@ struct mp3_task_struct {
 
 //Fixed priority (real time priority) a little confusing naming convention
 //Dynamic priority
+
+//Priority Inversion
+//
