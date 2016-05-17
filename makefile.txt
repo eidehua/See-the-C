@@ -8,3 +8,7 @@ GCC stands for GNU C Compiler. Now know as GNU Compiler Collection since it supp
 
 Based on 
 https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html
+
+gcc hello.c
+Compiles and links source file hello.c into executable "a.exe"
+
