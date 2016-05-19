@@ -15,13 +15,13 @@ int main()
     
     //Equivalent pointer to a variable:
     //int val = 10;
-    //void *int_ptr = &val;
+    //int *int_ptr = &val;
     
     /* The above line is equivalent of following two
        void (*fun_ptr)(int);
        fun_ptr = &fun; 
     */
-    //void *int_ptr;
+    //int *int_ptr;
     //int_ptr = &val;
  
     // Invoking fun() using fun_ptr
