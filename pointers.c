@@ -3,3 +3,9 @@
 int val = 20; //declaring an integer variable, (key = val, value = 20)
 int * ptr; //key = ptr, val = null
 ptr = &value; //key = ptr, val = address of (val)
+
+
+
+/*
+ Function Pointers
+*/
